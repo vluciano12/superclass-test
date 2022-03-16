@@ -13,9 +13,3 @@ public class Animal{
         return "I am a " + species + ", also known as a " + sciName + ". My average size is " + avgSize + ".";
     }
 }
-
-public class Bird extends Animal{
-    
-    private int wingSpan;
-    
-}
